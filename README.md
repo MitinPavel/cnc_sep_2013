@@ -85,3 +85,7 @@ Questions
 
 [![Questioins](http://pics.livejournal.com/sovietdetstvo/pic/000qfxwz)](http://sovietdetstvo.livejournal.com/132921.html)
 
+Pavel Mitin:
+
+* [@map_and_filter](https://twitter.com/map_and_filter)
+* [http://novembermeeting.blogspot.com/](http://novembermeeting.blogspot.com/)
