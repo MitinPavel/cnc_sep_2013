@@ -1,11 +1,12 @@
 Vagrant + Chef-solo + Hadoop
-
 ============================
 
-*Presentation on C&C Donetsk September 2013*
+*0x00C0FFEE Donetsk September 2013*
 
 Epigraph
 --------
+
+[![Vagrant](http://www.hashicorp.com/images/blog/a-new-look-for-vagrant/logo_wide-cab47086.png)](http://www.hashicorp.com/blog/a-new-look-for-vagrant.html )
 
 "Redis client" demo
 -------------------
@@ -44,6 +45,7 @@ vagrant reload
 First slide set
 ---------------
 
+[![Chef-solo](http://docs.opscode.com/_static/opscode_chef_html_logo.png)](http://www.hashicorp.com/blog/a-new-look-for-vagrant.html )
 
 "Hadoop" demo
 -------------
