@@ -6,6 +6,12 @@ Vagrant + Chef-solo + Hadoop
 Epigraph
 --------
 
+[![movie](http://proc.com.ua/uploads/posts/2011-01/thumbs/1295298889_shof-2.jpg)](http://proc.com.ua/films/69687-shofyor-ponevole-1958-dvdrip.html)
+
+Vagrant
+-------
+
+
 [![Vagrant](http://www.hashicorp.com/images/blog/a-new-look-for-vagrant/logo_wide-cab47086.png)](http://www.hashicorp.com/blog/a-new-look-for-vagrant.html )
 
 "Redis client" demo
