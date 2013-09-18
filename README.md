@@ -11,7 +11,6 @@ Epigraph
 Vagrant
 -------
 
-
 [![Vagrant](http://www.hashicorp.com/images/blog/a-new-look-for-vagrant/logo_wide-cab47086.png)](http://www.hashicorp.com/blog/a-new-look-for-vagrant.html )
 
 "Redis client" demo
@@ -49,7 +48,7 @@ vagrant reload
 ```
 
 
-Blah-blah
+Chef-solo
 ---------
 
 [![Chef-solo](http://docs.opscode.com/_static/opscode_chef_html_logo.png)](http://www.hashicorp.com/blog/a-new-look-for-vagrant.html )
@@ -81,8 +80,10 @@ vagrant up
 
 [Hadoop GUI](http://localhost:50075)
 
-Blah-blah
----------
+Chef-solo #2
+------------
+
+Example cookbook: [pseudo_distributed_cdh4](https://github.com/MitinPavel/pseudo_distributed_cdh4) 
 
 Resource examples:
 
