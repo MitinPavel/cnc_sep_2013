@@ -48,8 +48,9 @@ config.vm.network :forwarded_port, guest: 6379, host: 6379
 vagrant reload
 ```
 
-First slide set
----------------
+
+Blah-blah
+---------
 
 [![Chef-solo](http://docs.opscode.com/_static/opscode_chef_html_logo.png)](http://www.hashicorp.com/blog/a-new-look-for-vagrant.html )
 
@@ -79,6 +80,24 @@ vagrant up
 ```
 
 [Hadoop GUI](http://localhost:50075)
+
+Blah-blah
+---------
+
+Resource examples:
+
+* [Simple example](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/master/recipes/default.rb#L6-9)
+* [Imperative ruby code](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/master/recipes/default.rb#L32-43)
+* [Idempotency](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/master/recipes/default.rb#L45-50)
+* [Resource as desirable state](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/master/recipes/default.rb#L81-85)
+
+
+Custom Lightweight Resources:
+
+* [Problem](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/c1325a31db625c80fd5850c505ab6d4fb591dd11/recipes/default.rb#L61-116)
+* [Provider](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/master/providers/hdfs_dir.rb)
+* [Resource](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/master/resources/hdfs_dir.rb) 
+* [Usage](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/master/recipes/default.rb#L58-67)
 
 Questions
 ---------
