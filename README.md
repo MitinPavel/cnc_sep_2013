@@ -73,3 +73,9 @@ vagrant up
 ```
 
 [Hadoop GUI](http://localhost:50075)
+
+Questions
+---------
+
+[![Questioins](http://pics.livejournal.com/sovietdetstvo/pic/000qfxwz)](http://sovietdetstvo.livejournal.com/132921.html)
+
