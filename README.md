@@ -91,7 +91,7 @@ Resource examples:
 * [Imperative ruby code](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/master/recipes/default.rb#L32-43)
 * [Idempotency](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/master/recipes/default.rb#L45-50)
 * [Resource as desirable state](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/master/recipes/default.rb#L81-85)
-
+* [List of resources](http://docs.opscode.com/resource.html#resources)
 
 Custom Lightweight Resources:
 
