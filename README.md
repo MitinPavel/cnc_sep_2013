@@ -8,10 +8,6 @@ Epigraph
 
 [![movie](http://proc.com.ua/uploads/posts/2011-01/thumbs/1295298889_shof-2.jpg)](http://proc.com.ua/films/69687-shofyor-ponevole-1958-dvdrip.html)
 
-Vagrant
--------
-
-[![Vagrant](http://www.hashicorp.com/images/blog/a-new-look-for-vagrant/logo_wide-cab47086.png)](http://www.hashicorp.com/blog/a-new-look-for-vagrant.html )
 
 "Redis client" demo
 -------------------
@@ -47,6 +43,17 @@ config.vm.network :forwarded_port, guest: 6379, host: 6379
 vagrant reload
 ```
 
+Vagrant
+-------
+
+[![Vagrant](http://www.hashicorp.com/images/blog/a-new-look-for-vagrant/logo_wide-cab47086.png)](http://www.hashicorp.com/blog/a-new-look-for-vagrant.html )
+
+
+[Vagrant boxes](http://www.vagrantbox.es/)
+[Sinced folders](http://docs.vagrantup.com/v2/synced-folders/)
+["multi-machine" environment](http://docs.vagrantup.com/v2/multi-machine/index.html)
+[Private network](http://docs.vagrantup.com/v2/networking/private_network.html)
+[Configuration](http://docs.vagrantup.com/v2/providers/configuration.html)
 
 Chef-solo
 ---------
