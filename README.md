@@ -53,6 +53,8 @@ Chef-solo
 
 [![Chef-solo](http://docs.opscode.com/_static/opscode_chef_html_logo.png)](http://www.hashicorp.com/blog/a-new-look-for-vagrant.html )
 
+[Chef Solo provisioning for Vagrant](http://docs.vagrantup.com/v2/provisioning/chef_solo.html)
+
 "Hadoop" demo
 -------------
 
@@ -82,6 +84,8 @@ vagrant up
 
 Chef-solo #2
 ------------
+
+(Chef-solo page)[http://docs.opscode.com/chef_solo.html]
 
 Example cookbook: [pseudo_distributed_cdh4](https://github.com/MitinPavel/pseudo_distributed_cdh4) 
 
