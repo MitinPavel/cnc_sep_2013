@@ -87,10 +87,10 @@ Example cookbook: [pseudo_distributed_cdh4](https://github.com/MitinPavel/pseudo
 
 Resource examples:
 
-* [Simple example](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/master/recipes/default.rb#L6-9)
-* [Imperative ruby code](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/master/recipes/default.rb#L32-43)
-* [Idempotency](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/master/recipes/default.rb#L45-50)
-* [Resource as desirable state](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/master/recipes/default.rb#L81-85)
+* [Simple example](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/09067fdd0dd3aca43ca038620771d1f81b16be88/recipes/default.rb#L6-9)
+* [Imperative ruby code](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/09067fdd0dd3aca43ca038620771d1f81b16be88/recipes/default.rb#L32-43)
+* [Idempotency](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/09067fdd0dd3aca43ca038620771d1f81b16be88/recipes/default.rb#L45-50)
+* [Resource as desirable state](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/09067fdd0dd3aca43ca038620771d1f81b16be88/recipes/default.rb#L81-85)
 * [List of resources](http://docs.opscode.com/resource.html#resources)
 
 Custom Lightweight Resources:
