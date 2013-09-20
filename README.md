@@ -92,7 +92,7 @@ vagrant up
 Chef-solo #2
 ------------
 
-[Chef-solo page]([http://docs.opscode.com/chef_solo.html)
+[Chef-solo page](http://docs.opscode.com/chef_solo.html)
 
 Example cookbook: [pseudo_distributed_cdh4](https://github.com/MitinPavel/pseudo_distributed_cdh4) 
 
