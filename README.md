@@ -122,8 +122,8 @@ Resource examples:
 Custom Lightweight Resources:
 
 * [Problem](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/c1325a31db625c80fd5850c505ab6d4fb591dd11/recipes/default.rb#L61-116)
+* [Resource](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/master/resources/hdfs_dir.rb)
 * [Provider](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/master/providers/hdfs_dir.rb)
-* [Resource](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/master/resources/hdfs_dir.rb) 
 * [Usage](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/master/recipes/default.rb#L58-67)
 
 Questions
