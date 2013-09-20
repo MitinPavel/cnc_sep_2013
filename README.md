@@ -1,10 +1,9 @@
-Vagrant + Chef-solo + Hadoop
-============================
+Шефёр поневоле
+==============
 
-*0x00C0FFEE Donetsk September 2013*
+*Vagrant + Chef-solo* **0x00C0FFEE** *Donetsk Sep 2013*
 
-Epigraph
---------
+*Pavel Mitin*
 
 [![movie](http://proc.com.ua/uploads/posts/2011-01/thumbs/1295298889_shof-2.jpg)](http://proc.com.ua/films/69687-shofyor-ponevole-1958-dvdrip.html)
 
@@ -87,7 +86,7 @@ mkdir cookbooks
 vagrant up
 ```
 
-[Hadoop GUI](http://localhost:50075)
+[Hadoop GUI](http://localhost:50070)
 
 Chef-solo #2
 ------------
