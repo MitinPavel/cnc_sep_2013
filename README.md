@@ -49,11 +49,11 @@ Vagrant
 [![Vagrant](http://www.hashicorp.com/images/blog/a-new-look-for-vagrant/logo_wide-cab47086.png)](http://www.hashicorp.com/blog/a-new-look-for-vagrant.html )
 
 
-[Vagrant boxes](http://www.vagrantbox.es/)
-[Sinced folders](http://docs.vagrantup.com/v2/synced-folders/)
-["multi-machine" environment](http://docs.vagrantup.com/v2/multi-machine/index.html)
-[Private network](http://docs.vagrantup.com/v2/networking/private_network.html)
-[Configuration](http://docs.vagrantup.com/v2/providers/configuration.html)
+* [Vagrant boxes](http://www.vagrantbox.es/)
+* [Sinced folders](http://docs.vagrantup.com/v2/synced-folders/)
+* ["multi-machine" environment](http://docs.vagrantup.com/v2/multi-machine/index.html)
+* [Private network](http://docs.vagrantup.com/v2/networking/private_network.html)
+* [Configuration](http://docs.vagrantup.com/v2/providers/configuration.html)
 
 Chef-solo
 ---------
