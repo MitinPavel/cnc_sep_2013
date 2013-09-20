@@ -94,8 +94,6 @@ Chef-solo #2
 
 [Chef-solo page](http://docs.opscode.com/chef_solo.html)
 
-Example cookbook: [pseudo_distributed_cdh4](https://github.com/MitinPavel/pseudo_distributed_cdh4) 
-
 Resource examples:
 
 * [Simple example](https://github.com/MitinPavel/pseudo_distributed_cdh4/blob/09067fdd0dd3aca43ca038620771d1f81b16be88/recipes/default.rb#L6-9)
