@@ -51,8 +51,8 @@ Vagrant
 
 * [Vagrant boxes](http://www.vagrantbox.es/)
 * [Sinced folders](http://docs.vagrantup.com/v2/synced-folders/)
-* ["multi-machine" environment](http://docs.vagrantup.com/v2/multi-machine/index.html)
 * [Private network](http://docs.vagrantup.com/v2/networking/private_network.html)
+* ["multi-machine" environment](http://docs.vagrantup.com/v2/multi-machine/index.html)
 * [Configuration](http://docs.vagrantup.com/v2/providers/configuration.html)
 
 Chef-solo
