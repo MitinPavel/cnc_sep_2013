@@ -83,6 +83,7 @@ config.vm.provision :chef_solo do |chef|
   chef.json = {
     :java => {
       :install_flavor => "oracle",
+      :jdk_version => '6',
       :url => 'jdk-6u45-linux-x64.bin',
       :oracle => {
         "accept_oracle_download_terms" => true
