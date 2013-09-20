@@ -72,6 +72,8 @@ rm Vagrant && vagrant init
 ```ruby
 config.vm.box = "precise64"
 config.vm.box_url = "http://files.vagrantup.com/precise64.box"
+config.vm.network :forwarded_port, guest: 50030, host: 50030
+config.vm.network :forwarded_port, guest: 50060, host: 50060
 config.vm.network :forwarded_port, guest: 50070, host: 50070
 config.vm.network :forwarded_port, guest: 50075, host: 50075
     
@@ -101,7 +103,8 @@ mkdir cookbooks
 vagrant up
 ```
 
-[Hadoop GUI](http://localhost:50070)
+[Hadoop HDFS](http://localhost:50070)
+[Hadoop JobTracker](http://localhost:50030)
 
 Chef-solo #2
 ------------
