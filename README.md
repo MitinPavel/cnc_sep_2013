@@ -74,9 +74,23 @@ config.vm.box = "precise64"
 config.vm.box_url = "http://files.vagrantup.com/precise64.box"
 config.vm.network :forwarded_port, guest: 50070, host: 50070
 config.vm.network :forwarded_port, guest: 50075, host: 50075
-    chef.add_recipe "apt"
-    chef.add_recipe "java"
-    chef.add_recipe "pseudo_distributed_cdh4"
+    
+config.vm.provision :chef_solo do |chef|
+  chef.add_recipe "apt"
+  chef.add_recipe "java"
+  chef.add_recipe "pseudo_distributed_cdh4"
+
+  chef.json = {
+    :java => {
+      :install_flavor => "oracle",
+      :url => 'jdk-6u45-linux-x64.bin',
+      :oracle => {
+        "accept_oracle_download_terms" => true
+      }
+    }
+  }
+end
+
 ```
 
 [Chef cookbooks](http://community.opscode.com/)
