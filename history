@@ -1,0 +1,27 @@
+ 1232  dpkg --get-selections  | grep vagrant
+ 1233  cd ~/projects/demo && ruby redis_client.rb
+ 1234  ruby redis_client.rb 
+ 1235  ls
+ 1237  vagrant init
+ 1238  vi Vagrantfile 
+ 1239  vagrant up
+ 1240  vagrant ssh
+ 1241  vi Vagrantfile 
+ 1242  vagrant reload
+ 1243  vagrant ssh
+ 1244  vagrant destroy
+ 1246  ls
+ 1247  rm Vagrantfile 
+ 1248  vagrant inin
+ 1250  vi Vagrantfile 
+ 1251  cd cookbooks/
+ 1252  ls
+ 1253  git clone git@github.com:opscode-cookbooks/apt.git
+ 1254  git clone git@github.com:opscode-cookbooks/java.git
+ 1255  git clone git@github.com:MitinPavel/pseudo_distributed_cdh4.git
+ 1257  ls
+ 1258  cd ..
+ 1259  vagrant up
+ 1260  vagrant ssh
+ 1261  vagrant provision
+ 
